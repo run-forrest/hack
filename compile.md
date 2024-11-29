@@ -44,4 +44,12 @@ Since I need to use the emulator to run the project, I will compile the x86 vers
 
 `make -j16`
 
-Waiting for the long compilation process
+Waiting for the long compilation process, after finished.
+
+download Android Studio
+
+`mmm development/tools/idegen`
+
+`development/tools/idegen/idegen.sh`
+
+open Android Studio, and open the file android.ipr, you will make the whole source code linked.
